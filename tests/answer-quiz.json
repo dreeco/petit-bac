@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.2ea5214f-86de-4bfe-b4cb-4004daeb18f0",
+    "application": {
+      "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+    },
+    "attributes": {
+      "lastSpeechType": "Voici votre lettre : ",
+      "usedLetters": [
+        "N",
+        "R",
+        "F",
+        "Z"
+      ],
+      "lastSpeech": "Voici votre lettre : <say-as interpret-as=\"spell-out\">Z</say-as>",
+      "usedCategories": [
+        "les adjectifs",
+        "les lieux de divertissement",
+        "les personnages historiques"
+      ],
+      "quizz": {
+        "lastCategory": "les noms de fleurs",
+        "lastLetter": "f"
+      }
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AEQ2FVHSH46S6WBQWTSWJLCBPWH5ZYLEZZKNFBVSCZ5USESYEYJVQZDQGZNHMLMCOJON6VCJSW7K64LRC2R45CE7OHF24EUE66UFKP3S42LIAC6HE3W5X6OI4KWFCK2Q24KCDAISOJZBVHDM4S7HIR5GJQLOLV26VDGPKNKPIJLLHFMSLYLMK",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.eu.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjgxYTNmZjI4LTRhZGEtNDZmNC1hOTlmLTUxZWRjMzEzNmIwYSIsImV4cCI6MTUzOTYyMzMwMSwiaWF0IjoxNTM5NjE5NzAxLCJuYmYiOjE1Mzk2MTk3MDEsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVRMkZWSFNINDZTNldCUVdUU1dKTENCUFdINVpZTEVaWktORkJWU0NaNVVTRVNZRVlKVlFaRFFHWk5ITUxNQ09KT042VkNKU1c3SzY0TFJDMlI0NUNFN09IRjI0RVVFNjZVRktQM1M0MkxJQUM2SEUzVzVYNk9JNEtXRkNLMlEyNEtDREFJU09KWkJWSERNNFM3SElSNUdKUUxPTFYyNlZER1BLTktQSUpMTEhGTVNMWUxNSyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFFNDRRV0tQSTdPVFo3UEw3SFc1RDI1UTRTTlg3SllZNEpGQkc2T0U2V1BESlBPVFZOM0RXM1EyMzRZVVFQMkRPNUJWNExKVExSRVpCSEJCQ0RFSlpVTkhWRkFOTjI0UVpCWlVWSUhNNU5DS09EQkY3VEhXVTdDUEdIMjZPQ0pBM0xMUjRWQUw3VDNaTU40T09aRFJUSjZWSEhGTUcyNDJINURSVTVPVkY2TlZLN081SE1OUU1ZUk0yR0dVT0dDTFo0S0JQUEVGQldQN0FEQSJ9fQ.XyM-2dvIeGFb8AeAR02RJnVy9j4JSIVZdVC0bGH9ACpsmEFT2qqlEYmrHXB4zDZ_xt8HULWLmRG-wrD68R1OlaYZG2nAKzexAsWVrFos0LnaFNth7Zqrx1xeLVDcFi9fHVWOdCLjbGxN_VpreVkSs7CtwNuwPOWYkvDnByI8gb0tTVne-u4k2o8Z8EpHlX4ofMFRX8CYqhLtV6eRTXD0OUPb_lvaMFLoEbmuYd1rZCputMDUi4dZkA0LVl2Df_QTdWGdgqZZaVDwU5jAPzsPkzGDsUb2RJFF0A9yjJ0qCRjYvMuEJxuKVA3cW5ztHjikvDpSyRVlnohQtu6iCS_x3Q"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.f767b45a-c9e3-4d77-b845-217b28c34fbe",
+    "timestamp": "2018-10-15T16:08:21Z",
+    "locale": "fr-FR",
+    "intent": {
+      "name": "IsCorrectIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "AMAZON.Region": {
+          "name": "AMAZON.Region",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Room": {
+          "name": "AMAZON.Room",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Color": {
+          "name": "AMAZON.Color",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Artist": {
+          "name": "AMAZON.Artist",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Country": {
+          "name": "AMAZON.Country",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.FirstName": {
+          "name": "AMAZON.FirstName",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Food": {
+          "name": "AMAZON.Food",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Genre": {
+          "name": "AMAZON.Genre",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Movie": {
+          "name": "AMAZON.Movie",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.SearchQuery": {
+          "name": "AMAZON.SearchQuery",
+          "value": "fuschia",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Musician": {
+          "name": "AMAZON.Musician",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Language": {
+          "name": "AMAZON.Language",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.City": {
+          "name": "AMAZON.City",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.MusicGroup": {
+          "name": "AMAZON.MusicGroup",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Animal": {
+          "name": "AMAZON.Animal",
+          "confirmationStatus": "NONE"
+        }
+      }
+    },
+    "dialogState": "STARTED"
+  }
+}

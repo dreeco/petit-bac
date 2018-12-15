@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.6f025cd8-4aa5-40b1-a0d8-e84d47dd71f6",
+    "application": {
+      "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+    },
+    "attributes": {
+      "lastSpeechType": "Voici votre catégorie : ",
+      "usedLetters": [
+        "N",
+        "R",
+        "F",
+        "Z"
+      ],
+      "lastSpeech": "Bonjour, Vous pouvez me demander une lettre, une catégorie, un exemple pour une catégorie et une lettre, ou encore de démarrer un quiz. Que désirez-vous ?",
+      "usedCategories": [
+        "les adjectifs",
+        "les lieux de divertissement",
+        "les personnages historiques",
+        "les métiers",
+        "les noms de médicaments",
+        "les lieux célèbres"
+      ],
+      "quizz": {
+        "lastLetter": "a",
+        "lastCategory": "les vêtements"
+      }
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AEQ2FVHSH46S6WBQWTSWJLCBPWH5ZYLEZZKNFBVSCZ5USESYEYJVQZDQGZNHMLMCOJON6VCJSW7K64LRC2R45CE7OHF24EUE66UFKP3S42LIAC6HE3W5X6OI4KWFCK2Q24KCDAISOJZBVHDM4S7HIR5GJQLOLV26VDGPKNKPIJLLHFMSLYLMK",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.eu.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjgxYTNmZjI4LTRhZGEtNDZmNC1hOTlmLTUxZWRjMzEzNmIwYSIsImV4cCI6MTUzOTY5NDU4MywiaWF0IjoxNTM5NjkwOTgzLCJuYmYiOjE1Mzk2OTA5ODMsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVRMkZWSFNINDZTNldCUVdUU1dKTENCUFdINVpZTEVaWktORkJWU0NaNVVTRVNZRVlKVlFaRFFHWk5ITUxNQ09KT042VkNKU1c3SzY0TFJDMlI0NUNFN09IRjI0RVVFNjZVRktQM1M0MkxJQUM2SEUzVzVYNk9JNEtXRkNLMlEyNEtDREFJU09KWkJWSERNNFM3SElSNUdKUUxPTFYyNlZER1BLTktQSUpMTEhGTVNMWUxNSyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFFNDRRV0tQSTdPVFo3UEw3SFc1RDI1UTRTTlg3SllZNEpGQkc2T0U2V1BESlBPVFZOM0RXM1EyMzRZVVFQMkRPNUJWNExKVExSRVpCSEJCQ0RFSlpVTkhWRkFOTjI0UVpCWlVWSUhNNU5DS09EQkY3VEhXVTdDUEdIMjZPQ0pBM0xMUjRWQUw3VDNaTU40T09aRFJUSjZWSEhGTUcyNDJINURSVTVPVkY2TlZLN081SE1OUU1ZUk0yR0dVT0dDTFo0S0JQUEVGQldQN0FEQSJ9fQ.XZHsfI2jqSIp3uZYHXMFD2ZYGYi_Egl2YBVre6CNTfetbgpS7hNtLlQZAJigC5F9gcIsMFO9vrygxTbPnTYCOGLLLL8L1e6cCi-PRjk5kYaK6gBCMYyn3OH1za9at00Vh9YEyVR_EXD3K_qQA6ruX5r3utaGNStc2THaZKrS2GVa_wxnEDT_4k640iTPYNTQoaYnXAsHz_2jTHfWMu7PPQ94gvb1IlyGoCMwCCh89pQfLOkeixC0zfYyu_nZFmA_PMJr6G5P4ezbVP_n0U7ixGHQrBu7jXkNXv2OP6bOtWt9IA2Lio3Tp46ftPV-ET7UJflFGIixs2wXiwEc2p1OYg"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.0aab9914-8a3d-46bb-be22-30747f0cc5e0",
+    "timestamp": "2018-10-16T11:56:23Z",
+    "locale": "fr-FR",
+    "intent": {
+      "name": "StartQuizzIntent",
+      "confirmationStatus": "NONE"
+    },
+    "dialogState": "STARTED"
+  }
+}

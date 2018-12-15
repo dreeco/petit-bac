@@ -1,0 +1,192 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.f5cdf403-1128-438c-ae9d-e922f75b2a73",
+    "application": {
+      "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+    },
+    "attributes": {
+      "lastSpeechType": "Voici votre catégorie : ",
+      "usedLetters": [
+        "N",
+        "R",
+        "F",
+        "Z"
+      ],
+      "lastSpeech": "les lieux célèbres ; Voulez-vous entendre une autre suggestion de catégorie ?",
+      "usedCategories": [
+        "les adjectifs",
+        "les lieux de divertissement",
+        "les personnages historiques",
+        "les métiers",
+        "les noms de médicaments",
+        "les lieux célèbres"
+      ],
+      "quizz": {
+        "lastLetter": "a",
+        "lastCategory": "les vêtements"
+      }
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AEQ2FVHSH46S6WBQWTSWJLCBPWH5ZYLEZZKNFBVSCZ5USESYEYJVQZDQGZNHMLMCOJON6VCJSW7K64LRC2R45CE7OHF24EUE66UFKP3S42LIAC6HE3W5X6OI4KWFCK2Q24KCDAISOJZBVHDM4S7HIR5GJQLOLV26VDGPKNKPIJLLHFMSLYLMK",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.eu.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjgxYTNmZjI4LTRhZGEtNDZmNC1hOTlmLTUxZWRjMzEzNmIwYSIsImV4cCI6MTUzOTY5NDQyNCwiaWF0IjoxNTM5NjkwODI0LCJuYmYiOjE1Mzk2OTA4MjQsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVRMkZWSFNINDZTNldCUVdUU1dKTENCUFdINVpZTEVaWktORkJWU0NaNVVTRVNZRVlKVlFaRFFHWk5ITUxNQ09KT042VkNKU1c3SzY0TFJDMlI0NUNFN09IRjI0RVVFNjZVRktQM1M0MkxJQUM2SEUzVzVYNk9JNEtXRkNLMlEyNEtDREFJU09KWkJWSERNNFM3SElSNUdKUUxPTFYyNlZER1BLTktQSUpMTEhGTVNMWUxNSyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFFNDRRV0tQSTdPVFo3UEw3SFc1RDI1UTRTTlg3SllZNEpGQkc2T0U2V1BESlBPVFZOM0RXM1EyMzRZVVFQMkRPNUJWNExKVExSRVpCSEJCQ0RFSlpVTkhWRkFOTjI0UVpCWlVWSUhNNU5DS09EQkY3VEhXVTdDUEdIMjZPQ0pBM0xMUjRWQUw3VDNaTU40T09aRFJUSjZWSEhGTUcyNDJINURSVTVPVkY2TlZLN081SE1OUU1ZUk0yR0dVT0dDTFo0S0JQUEVGQldQN0FEQSJ9fQ.A_8jYIlnt1xKqW_Dk3NyqbJKZux559DT7wuxQcuP3Gt3wEG0EGcO8CEYykS-lJLNury-apQSG-45xRL_rJwhMyoJvfZcCxtI901IVSYfFYxeiLEU0OQHGi86ZiToltm_9GXDAsZX-TzkCkElLBVdWA3jvjRyZlFy4-FnTw5uQdg_h9PSMglFBcA98Dym5oQcOv4yjjfSkJBPl4XewQ0mKCpVyVwCVGn6lAiBQJH8Ffqin9_kdCQerRB2u3US1UCUTHCCRcyvg89pdhqfnzQMnrkrUk_bI3boIYLHPytDdCCwdnr74azGRVY40ZwxRcUVtqis7jgsqjREEIbfKNvQLw"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.a259ccaf-079f-4e07-a329-394c643fe912",
+    "timestamp": "2018-10-16T11:53:44Z",
+    "locale": "fr-FR",
+    "intent": {
+      "name": "ExampleIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "Category": {
+          "name": "Category",
+          "confirmationStatus": "NONE"
+        },
+        "Example": {
+          "name": "Example",
+          "value": "1 exemple",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a.Example",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "un exemple",
+                      "id": "06f2dd5f48ddd2c9098f4376a6702581"
+                    }
+                  },
+                  {
+                    "value": {
+                      "name": "exemple",
+                      "id": "771f5924706521c73464341fc48afb05"
+                    }
+                  },
+                  {
+                    "value": {
+                      "name": "un exemple de mot",
+                      "id": "25af1ef20aadb19c6b4e46059ceab662"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        },
+        "CategoryName": {
+          "name": "CategoryName",
+          "value": "de lieu célèbre",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a.CategoryName",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "les lieux célèbres",
+                      "id": "fd09ea4369fe22ba55fa65cad4902774"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        },
+        "ForLetter": {
+          "name": "ForLetter",
+          "value": "commençant par la lettre",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a.ForLetter",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "commençant par la lettre",
+                      "id": "687281487f4bea509df467850ed95294"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        },
+        "ALetter": {
+          "name": "ALetter",
+          "value": "w",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a.ALetter",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "W",
+                      "id": "61e9c06ea9a85a5088a499df6458d276"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        },
+        "GiveMe": {
+          "name": "GiveMe",
+          "value": "demande à petit bac",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a.GiveMe",
+                "status": {
+                  "code": "ER_SUCCESS_NO_MATCH"
+                }
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        }
+      }
+    },
+    "dialogState": "STARTED"
+  }
+}

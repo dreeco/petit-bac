@@ -1,0 +1,158 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.be16efc7-dc1d-419b-aebd-3143c6d77828",
+    "application": {
+      "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+    },
+    "attributes": {
+      "lastSpeechType": "Voici votre catégorie : ",
+      "usedLetters": [
+        "N",
+        "R",
+        "F",
+        "Z"
+      ],
+      "lastSpeech": "<say-as interpret-as=\"interjection\">C'est gagné !</say-as> Je souhaiterais désormais un exemple pour la catégorie : les métiers; et la lettre <say-as interpret-as=\"spell-out\">e</say-as>.",
+      "usedCategories": [
+        "les adjectifs",
+        "les lieux de divertissement",
+        "les personnages historiques",
+        "les métiers",
+        "les noms de médicaments",
+        "les lieux célèbres",
+        "les éléments du tableau périodique"
+      ],
+      "quizz": {
+        "used": [
+          {
+            "letter": "f",
+            "category": "les dinosaures",
+            "success": false
+          },
+          {
+            "letter": "n",
+            "category": "les noms de fleurs",
+            "success": true
+          },
+          {
+            "letter": "k",
+            "category": "les pathologies",
+            "success": true
+          },
+          {
+            "letter": "b",
+            "category": "les races de chiens",
+            "success": true
+          },
+          {
+            "letter": "c",
+            "category": "les noms de jeux vidéos",
+            "success": true
+          }
+        ],
+        "lastCategory": "les chaînes de télévision",
+        "lastLetter": "m"
+      }
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.81a3ff28-4ada-46f4-a99f-51edc3136b0a"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE44QWKPI7OTZ7PL7HW5D25Q4SNX7JYY4JFBG6OE6WPDJPOTVN3DW3Q234YUQP2DO5BV4LJTLREZBHBBCDEJZUNHVFANN24QZBZUVIHM5NCKODBF7THWU7CPGH26OCJA3LLR4VAL7T3ZMN4OOZDRTJ6VHHFMG242H5DRU5OVF6NVK7O5HMNQMYRM2GGUOGCLZ4KBPPEFBWP7ADA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AEQ2FVHSH46S6WBQWTSWJLCBPWH5ZYLEZZKNFBVSCZ5USESYEYJVQZDQGZNHMLMCOJON6VCJSW7K64LRC2R45CE7OHF24EUE66UFKP3S42LIAC6HE3W5X6OI4KWFCK2Q24KCDAISOJZBVHDM4S7HIR5GJQLOLV26VDGPKNKPIJLLHFMSLYLMK",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.eu.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjgxYTNmZjI4LTRhZGEtNDZmNC1hOTlmLTUxZWRjMzEzNmIwYSIsImV4cCI6MTU0MDM4NDc0NCwiaWF0IjoxNTQwMzgxMTQ0LCJuYmYiOjE1NDAzODExNDQsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVRMkZWSFNINDZTNldCUVdUU1dKTENCUFdINVpZTEVaWktORkJWU0NaNVVTRVNZRVlKVlFaRFFHWk5ITUxNQ09KT042VkNKU1c3SzY0TFJDMlI0NUNFN09IRjI0RVVFNjZVRktQM1M0MkxJQUM2SEUzVzVYNk9JNEtXRkNLMlEyNEtDREFJU09KWkJWSERNNFM3SElSNUdKUUxPTFYyNlZER1BLTktQSUpMTEhGTVNMWUxNSyIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFFNDRRV0tQSTdPVFo3UEw3SFc1RDI1UTRTTlg3SllZNEpGQkc2T0U2V1BESlBPVFZOM0RXM1EyMzRZVVFQMkRPNUJWNExKVExSRVpCSEJCQ0RFSlpVTkhWRkFOTjI0UVpCWlVWSUhNNU5DS09EQkY3VEhXVTdDUEdIMjZPQ0pBM0xMUjRWQUw3VDNaTU40T09aRFJUSjZWSEhGTUcyNDJINURSVTVPVkY2TlZLN081SE1OUU1ZUk0yR0dVT0dDTFo0S0JQUEVGQldQN0FEQSJ9fQ.BwN2haCuz5fUtpALRGpBG46ToTERIBpwye_43wGJadYKQP1mS6hzBIffh4LAdLPELUKBeJkMw1AL8TDPiJbnxzbrGtRFZM0kC0NsPbqAeJS8xGCy4-D4UBScKO2XAwAtNrM3_Hu4WL1GMjwUp8v-Fh5XMcknqrjQQfXrEeeG7f4hM3yWTRTsi--M8QjusVOG34Bb6pAKF5ZrwwP-6S165trNeX9JGZN6rsuo9wZvxMCnAhHp1pP-eijpqRTWiRA3zrBmoylRIAnoYTAdBJ9A-yDlpUmDQFJEIjAtqkATG8EbSvpVox2w4_4NdbtrfI2NztHMeOibffDVZt3E__jYIg"
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.0173534e-6ab4-413a-a29f-15d47124e89f",
+    "timestamp": "2018-10-24T11:39:04Z",
+    "locale": "fr-FR",
+    "intent": {
+      "name": "IsCorrectIntent",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "AMAZON.Region": {
+          "name": "AMAZON.Region",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Room": {
+          "name": "AMAZON.Room",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Color": {
+          "name": "AMAZON.Color",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Artist": {
+          "name": "AMAZON.Artist",
+          "confirmationStatus": "NONE"
+        },
+        "Article": {
+          "name": "Article",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Country": {
+          "name": "AMAZON.Country",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.FirstName": {
+          "name": "AMAZON.FirstName",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Food": {
+          "name": "AMAZON.Food",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Genre": {
+          "name": "AMAZON.Genre",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Movie": {
+          "name": "AMAZON.Movie",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.SearchQuery": {
+          "name": "AMAZON.SearchQuery",
+          "value": "m. six",
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        },
+        "AMAZON.Musician": {
+          "name": "AMAZON.Musician",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Language": {
+          "name": "AMAZON.Language",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.City": {
+          "name": "AMAZON.City",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.MusicGroup": {
+          "name": "AMAZON.MusicGroup",
+          "confirmationStatus": "NONE"
+        },
+        "AMAZON.Animal": {
+          "name": "AMAZON.Animal",
+          "confirmationStatus": "NONE"
+        }
+      }
+    },
+    "dialogState": "STARTED"
+  }
+}
